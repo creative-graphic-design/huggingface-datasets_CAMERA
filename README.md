@@ -344,5 +344,4 @@ From [the official paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pd
 
 ### Contributions
 
-Thanks to [Masato Mita](https://github.com/chemicaltree), [Soichiro Murakami
-](https://github.com/ichiroex), and [Peinan Zhang](https://github.com/peinan) for creating this dataset.
+Thanks to [Masato Mita](https://github.com/chemicaltree), [Soichiro Murakami](https://github.com/ichiroex), and [Peinan Zhang](https://github.com/peinan) for creating this dataset.
