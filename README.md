@@ -1,3 +1,24 @@
+---
+annotations_creators:
+- crowdsourced
+language:
+- ja-JP
+language_creators:
+- found
+license:
+- cc-by-nc-sa-4.0
+multilinguality:
+- monolingual
+pretty_name: CAMERA
+size_categories: []
+source_datasets:
+- original
+tags: []
+task_categories:
+- text-generation
+task_ids: []
+---
+
 # Dataset Card for CAMERA 📷
 
 [![CI](https://github.com/shunk031/huggingface-datasets_CAMERA/actions/workflows/ci.yaml/badge.svg)](https://github.com/shunk031/huggingface-datasets_CAMERA/actions/workflows/ci.yaml)
