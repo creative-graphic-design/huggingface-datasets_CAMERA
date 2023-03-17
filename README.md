@@ -2,7 +2,7 @@
 annotations_creators:
 - crowdsourced
 language:
-- ja-JP
+- ja
 language_creators:
 - found
 license:
